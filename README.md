@@ -14,9 +14,13 @@
 
 🔍 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
   
-Below is a video of the application:
+Below is a video and images of the application:
   
 [Text-Editor](https://just-another-note-taker-dnc-030a83a7f61a.herokuapp.com/)
+<br>
+</br>
+![screenshot of application](./client/src/images/MANIFEST.png)
+![screenshot of application](./client/src/images/SW.png)
 
 ## User Story
 
