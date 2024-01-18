@@ -32,7 +32,7 @@ module.exports = () => {
         fingerprints: false,
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E.',
-        description: 'Take notes with JasvaScript syntax highlighting!',
+        description: 'Take notes!',
         start_url: './',
         publicPath: './',
         purpose: 'maskable',
@@ -43,22 +43,14 @@ module.exports = () => {
         icons: [
           {
             src: path.resolve(__dirname, './src/images/logo.png'),
-            sizes: [96, 128, 192, 256, 384, 512], // specify the sizes you want
-            destination: path.join('assets', 'icons'), // specify the output directory
-          },
-        ],
-        prefer_related_applications: true,
-        related_applications: [
-          {
-            platform: 'webapp',
-            url: 'https://text-editor-5000-f2edb74933f9.herokuapp.com/',
+            sizes: [96, 128, 192, 256, 384, 512], 
+            destination: path.join('assets', 'icons'), 
           },
         ],
       }),
     ],
     module: {
       rules: [
-        // Add CSS loaders and babel to webpack.
         {
           test: /\.css$/i,
           use: [MiniCssExtractPlugin.loader, 'css-loader'],
