@@ -19,8 +19,12 @@ Below is a video and images of the application:
 [Text-Editor](https://just-another-note-taker-dnc-030a83a7f61a.herokuapp.com/)
 <br>
 </br>
-![screenshot of application](./client/src/images/MANIFEST.png)
-![screenshot of application](./client/src/images/SW.png)
+
+<img src="./client/src/images/MANIFEST.png"
+alt="Web application's appearance and functionality">
+
+<img src="./client/src/images/SW.png"
+alt="Web application's appearance and functionality">
 
 ## User Story
 
