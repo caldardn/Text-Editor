@@ -38,7 +38,7 @@ module.exports = () => {
         purpose: 'maskable',
         theme_color: '#225ca3',
         background_color: '#225ca3',
-        orientation: 'portrait',
+
         display: 'standalone',
         icons: [
           {
