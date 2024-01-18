@@ -20,15 +20,9 @@ Below is a video and images of the application:
 <br>
 </br>
 
-![Web application's appearance and functionality](./client/src/images/MANIFEST.png)
+<img src="./client/src/images/MANIFEST.png" alt="Web application's appearance and functionality" width="70%" height="70%">
+<img src="./client/src/images/SW.png" alt="Web application's appearance and functionality" width="70%" height="70%">
 
-![Web application's appearance and functionality](./client/src/images/SW.png)
-
-<!-- <img src="./client/src/images/MANIFEST.png"
-alt="Web application's appearance and functionality">
-
-<img src="./client/src/images/SW.png"
-alt="Web application's appearance and functionality"> -->
 
 ## User Story
 
@@ -88,7 +82,7 @@ THEN I should have proper build scripts for a webpack application
  
   
 `npm run start`
-`
+
 
 ## Testing
 
