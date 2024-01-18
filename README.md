@@ -20,11 +20,15 @@ Below is a video and images of the application:
 <br>
 </br>
 
-<img src="./client/src/images/MANIFEST.png"
+![Web application's appearance and functionality](client/src/images/MANIFEST.png)
+
+![Web application's appearance and functionality](client/src/images/SW.png)
+
+<!-- <img src="./client/src/images/MANIFEST.png"
 alt="Web application's appearance and functionality">
 
 <img src="./client/src/images/SW.png"
-alt="Web application's appearance and functionality">
+alt="Web application's appearance and functionality"> -->
 
 ## User Story
 
