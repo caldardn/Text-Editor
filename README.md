@@ -20,8 +20,8 @@ Below is a video and images of the application:
 <br>
 </br>
 
-<img src="./client/src/images/MANIFEST.png" alt="Web application's appearance and functionality" width="70%" height="70%">
-<img src="./client/src/images/SW.png" alt="Web application's appearance and functionality" width="70%" height="70%">
+<img src="./client/src/images/MANIFEST.PNG" alt="Web application's appearance and functionality" width="70%" height="70%">
+<img src="./client/src/images/SW.PNG" alt="Web application's appearance and functionality" width="70%" height="70%">
 
 
 ## User Story
